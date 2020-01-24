@@ -1,0 +1,17 @@
+span{
+    color: red;
+}
+
+.decorate{
+    text-decoration: line-through;
+}
+
+button{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    display: flex;
+    justify-content: space-around;
+}
